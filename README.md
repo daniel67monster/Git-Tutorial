@@ -8,3 +8,4 @@ To complete the tutorial you need vscode and git installed, see [here](/setup.md
 First fun fact about yourself:
 daniel67monster
 Second fun fact about yourself:
+sick sevem
